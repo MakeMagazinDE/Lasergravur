@@ -4,7 +4,6 @@ Maker Media GmbH
 *** 
 
 # Lasergravur
-15-Eureo-Personenwaage fürs Smarthome fit machen
 ### Dieser Workshop zeigt, wie man die optimalen Parameter fürs Gravieren mit Lightburn herausfindet
 
 Hier finden Sie die Testdateien.
