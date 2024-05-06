@@ -9,7 +9,7 @@ Maker Media GmbH
 
 Hier finden Sie die Testdateien.
 
-![Picture](https://github.com/MakeMagazinDE/Personenwaage/blob/main/Waage.jpg)
+![Picture](https://github.com/MakeMagazinDE/Lasergravur/blob/main/Bildmodigravur.JPG)
 
 Den vollständigen Artikel gibt es in der **[Make-Ausgabe 3/24 ab Seite XX](https://www.heise.de/select/make/2024/3/xxx)** zu lesen. 
 
